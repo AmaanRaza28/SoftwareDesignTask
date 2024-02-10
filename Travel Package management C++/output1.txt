@@ -1,0 +1,9 @@
+Added to Paris
+Failed to add to New York
+hello
+Travel Package Name: Holiday Escape
+Destinations:
+Destination name: Paris
+Activities: 
+Activity name: Sightseeing, Description: Visit landmarks, Cost: 100, Capacity: 15
+
